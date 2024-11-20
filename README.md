@@ -98,7 +98,7 @@ Follow these steps to set up and run the project:
 
 Clone the Repository:
 
-		git clone https://github.com/yourusername/your-repo-name.git
+		git clone https://github.com/kothapalliAnusha/Integrated-Approaches-for-Object-Detection-and-Image-Recognition-with-XAI.git
 		cd your-repo-name
   
 Create a Virtual Environment:
